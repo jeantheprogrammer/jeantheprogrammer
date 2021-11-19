@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jean Costa.
 
-- 🔭 Atualmente estou trabalhando com Front end.
+- 🔭 Atualmente buscando oportunidades com Front end.
 - 🌱 Atualmente estou estudando com Javascript, Bootstrap e React.
 - 👯 Pretento colaborar com Front end
 - 📫 Como entrar em contato: 
